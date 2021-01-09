@@ -1,0 +1,20 @@
+{
+    "name": "Teddit Please",
+    "description": "Redirect all Reddit links to Teddit",
+    "version": "1.0",
+    "background": {
+        "scripts": ["background.js"]
+    },
+    "options_page": "options.html",
+    "icons": {
+        "32": "assets/icon.png",
+        "48": "assets/icon.png"
+    },
+    "permissions": [
+        "webRequest",
+        "webRequestBlocking",
+        "storage",
+        "*://*.reddit.com/*"
+    ],
+    "manifest_version": 2
+}
