@@ -26,12 +26,8 @@ function saveOptions() {
 
 function restoreOptions() {
   const urlInputField = document.getElementById('teddit-url-input');
-  chrome.storage.sync.get(['tedditURL'], function(items) {
-    if (items.tedditURL !== undefined) {
-      urlInputField.value = items.tedditURL;
-    } else {
-      urlInputField.value = 'https://teddit.net';
-    }
+  chrome.storage.sync.get({'tedditURL': 'https://teddit.net'}, function(items) {
+    urlInputField.value = items.tedditURL;
   });
 }
 

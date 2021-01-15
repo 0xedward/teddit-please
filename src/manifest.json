@@ -5,7 +5,7 @@
     "background": {
         "scripts": ["background.js"]
     },
-    "options_page": "options.html",
+    "options_page": "options/options.html",
     "icons": {
         "32": "assets/icon.png",
         "48": "assets/icon.png"
