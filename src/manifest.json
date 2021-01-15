@@ -1,7 +1,7 @@
 {
     "name": "Teddit Please",
     "description": "Redirect all Reddit links to Teddit",
-    "version": "1.0",
+    "version": "1.0.1",
     "background": {
         "scripts": ["background.js"]
     },
