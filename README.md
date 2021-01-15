@@ -1,9 +1,18 @@
 # Teddit Please
 
+[![Teddit Please Chrome Web Store link](https://storage.googleapis.com/chrome-gcs-uploader.appspot.com/image/WlD8wC6g8khYWPJUsQceQkhXSlv1/UV4C4ybeBTsZt43U4xis.png)](https://chrome.google.com/webstore/detail/teddit-please/plgkifjefgnakpadlnkmlcfmkiegahfe)
+
 Teddit Please is a Chrome extension that redirects all your Reddit traffic to a lightweight, privacy-friendly, open source Reddit front-end called [Teddit](https://teddit.net/about) whenever you click on a reddit link or directly browse to reddit.
 
 ## Using your own teddit instance
 If you are using your own [teddit instance](https://codeberg.org/teddit/teddit#instances) to browse reddit, you can redirect reddit links to your instance, by going to Options and pasting in URL to your instance.
+
+## Installing extension from repo
+1. Download [this repo as a ZIP file](https://github.com/0xedward/teddit-please/archive/main.zip) from GitHub.
+2. Unzip the file
+3. In Chrome, go to the extensions page - chrome://extensions
+4. Enable Developer Mode.
+5. Click `Load unpacked` button and select the folder the repo was extracted to or drag the extracted folder anywhere on the page to import it
 
 ## Permissions Audit
 If you are curious or concerned about the permissions requested by this extension, the following is a brief explainer for each permission and where you can find it used in code:
