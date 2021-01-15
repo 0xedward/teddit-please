@@ -1,3 +1,5 @@
+'use strict';
+
 function saveOptions() {
   const userInputString = document.getElementById('teddit-url-input').value;
   const status = document.getElementById('status');

@@ -1,3 +1,5 @@
+'use strict';
+
 let tedditURL = '';
 
 try {
