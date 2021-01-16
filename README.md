@@ -12,7 +12,7 @@ If you are using your own [teddit instance](https://codeberg.org/teddit/teddit#i
 2. Unzip the file
 3. In Chrome, go to the extensions page - chrome://extensions
 4. Enable Developer Mode.
-5. Click `Load unpacked` button and select the folder the repo was extracted to or drag the extracted folder anywhere on the page to import it
+5. Click `Load unpacked` button and select the `src` folder that was extracted or drag the extracted `src` folder anywhere on the page to import it
 
 ## Permissions Audit
 If you are curious or concerned about the permissions requested by this extension, the following is a brief explainer for each permission and where you can find it used in code:
