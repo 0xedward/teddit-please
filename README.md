@@ -2,6 +2,10 @@
 
 [![Teddit Please Chrome Web Store link](https://storage.googleapis.com/chrome-gcs-uploader.appspot.com/image/WlD8wC6g8khYWPJUsQceQkhXSlv1/UV4C4ybeBTsZt43U4xis.png)](https://chrome.google.com/webstore/detail/teddit-please/plgkifjefgnakpadlnkmlcfmkiegahfe)
 
+![Extension version deployed to Chrome Web Store](https://img.shields.io/chrome-web-store/v/plgkifjefgnakpadlnkmlcfmkiegahfe?label=Chrome%20web%20store%20version%20)
+![Number of Extension Users](https://img.shields.io/chrome-web-store/users/plgkifjefgnakpadlnkmlcfmkiegahfe?color=2379C83D)
+
+
 Teddit Please is a Chrome extension that redirects all your Reddit traffic to a lightweight, privacy-friendly, open source Reddit front-end called [Teddit](https://teddit.net/about) whenever you click on a reddit link or directly browse to reddit.
 
 ## Using your own teddit instance
