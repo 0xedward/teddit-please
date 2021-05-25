@@ -1,5 +1,6 @@
 {
     "name": "Teddit Please",
+    "author": "0xedward",
     "description": "Redirect all Reddit links to Teddit",
     "version": "1.0.1",
     "background": {
