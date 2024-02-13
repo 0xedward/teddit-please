@@ -1,3 +1,5 @@
+## [Teddit is no longer actively maintained, so this extension is also no longer actively maintained](https://codeberg.org/teddit/teddit#teddit-is-no-more-actively-maintained)
+
 # Teddit Please
 
 [![Teddit Please Chrome Web Store link](https://storage.googleapis.com/chrome-gcs-uploader.appspot.com/image/WlD8wC6g8khYWPJUsQceQkhXSlv1/UV4C4ybeBTsZt43U4xis.png)](https://chrome.google.com/webstore/detail/teddit-please/plgkifjefgnakpadlnkmlcfmkiegahfe)
